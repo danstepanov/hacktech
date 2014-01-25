@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Anycdote::Application.load_tasks
+Hacktech::Application.load_tasks
