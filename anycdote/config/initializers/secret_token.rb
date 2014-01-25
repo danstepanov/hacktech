@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Hacktech::Application.config.secret_key_base = 'c8d5524642bac05a1d476029112db2c04da4b808e5f16e361d2679ea81b1cceea2edc7da740d504ba1b79a6b747dc768e86246fce3bab7774e460779b04c7fa5'
+Anycdote::Application.config.secret_key_base = '5da2ed808207aba0cba127d7058f6c3c8dfe7a38767d510b1ae0154915f3b3e8bac553638023de65eff09769c31b6e1db61f0529c612e17a2049387b67bf6d8b'
